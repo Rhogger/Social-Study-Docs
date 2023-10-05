@@ -8,6 +8,6 @@
 
 https://social-study.atlassian.net/l/cp/65NraR96
 
-##Protótipo de média fidelidade
+## Protótipo de média fidelidade
 
 https://www.figma.com/file/DfeHHA0PFvM1mghEZeKOHp/SocialStudy?type=design&node-id=0%3A1&mode=design&t=9KvO7MrwEhGPy1NM-1
